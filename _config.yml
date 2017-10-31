@@ -8,7 +8,7 @@ subtitle: My dog
 description:
 author: Xilin Sun
 language: en
-timezone: America/Los_Angelos
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
